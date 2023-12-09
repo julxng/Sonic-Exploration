@@ -38,4 +38,4 @@ Find detailed instructions for setting up the installation, including configurin
 Contributions and feedback are welcome. Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for collaboration guidelines.
 
 ## License
-This project is licensed under [specify the license type] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under Creative Commons Licenses - see the [LICENSE.md](LICENSE.md) file for details.
