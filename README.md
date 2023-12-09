@@ -26,6 +26,7 @@ The installation invites participants to be fully present, engaging attentively 
 ### Repository Structure
 - `/Arduino_sketches`: Arduino Mega sketches for interactive elements.
 - `/MaxMSP_patches`: MaxMSP patches for sound control.
+- `/sound_processing_python`: Python codes for to process audio files.
 - `/sound_samples`: Individual sound files used.
 - `/technical_documents`: Setup instructions and speaker arrangements.
 - `/media`: Images or videos of the installation.
